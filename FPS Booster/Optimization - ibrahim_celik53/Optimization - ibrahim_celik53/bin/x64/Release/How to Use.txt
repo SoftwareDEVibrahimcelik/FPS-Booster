@@ -1,0 +1,53 @@
+****************** FPS BOOSTER  ******************
+
+Respect the Labor / Created by instagram: @softwaredevic  * İBRAHİM ÇELİK
+*New one will be released please follow me
+Steam acc= https://steamcommunity.com/profiles/76561199096175384
+
+
+* RAM Cleaner
+* You can drag the form from the boxes on the left. (RAM Cleaner, CPU BOOST Manually, Advanced...) (HOLD for move program (change location))
+
+[RAM CLEANER]
+1. Just click to "Start" button for do optimize & clear
+2. After starting you must keep the program (whole time) because always clearing
+3. After starting you can get the program below i mean background..
+* "RAM" reduces the amount of use EXAMPLE %72 using to %18 , %58 to %24  ( variable )
+*  Optimizing the RAM
+
+
+[CPU BOOST]/
+1. Select game, program after Click "Add Process" button for add to "Boost Process"
+2. if you added game in boost process you can click to "Start Button"
+3. if you want to RETURN to Normal setting then Click "Default Settings"
+
+
+[AUTOMATIC SHUTDOWN]
+1. Write somethink in Textbox, Hour / Minute / Seconds
+2. You can click "Hide Me" Button for run in the background
+3. Put integers after click for "Start" Button
+
+
+[COMPUTER INFO]
+(its getting automaticlly system info)
+1. You can click "JPG" Button for save your system details. (Saving .jpg into Desktop)
+2. You can click "Copy Text" for copy your steam details. (Saving your clipboard)
+
+
+[ADVANCED]
+1. Click "Junk Files" button for delete all crash, junk files..
+2. Click "C: // Junk Files" button for delete leftover, junk files.. After click "OKAY"
+3. "Disable Startup" button its mean disabling windows started after running programs.. (After do Restart Computer)
+4. Click "Clean Cach Ram" for delete cache
+5. Click "Disable ALL Junk Services" for disable services. if you want to default click "Enable ALL Junk Services" button
+6. TopMost Checkbox means keeps the form on top
+
+
+
+
+
+[INFO]
+Instagram: @softwaredevic
+Instagram: @ibrahim_celik53
+im İBRAHİM ÇELİK  * age 19
+E-Mail: helpsoftwaredevic@gmail.com
